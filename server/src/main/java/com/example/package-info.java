@@ -2,4 +2,4 @@
  * This is the package name 
  */
 
-packacge com.example;
+package com.example;
